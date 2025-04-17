@@ -1,1 +1,2 @@
-# ExtraImp-Forecast-R1
+### ExtraImp-Forecast-TRAMO/SEATS
+It is the R script used to create the submission for Statistics Awards Round 3 for International Trade, Import of Goods for countries outside Europe, using the classic TRAMO/SEATS without exogenous variable. The original script was running at Kaggle. Since all data are automatically fetched from Eurostat by its API and preprocessed, this notebook should be able to run at any IDE.
